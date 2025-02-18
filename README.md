@@ -32,8 +32,9 @@
         -> he/him 
     ⚡ Fun fact:
         -> I have no idea what I am even doing (つ╥﹏╥)つ 
-      ---------->HAVE A NICE DAY!! ❤︎
-    </td>
+                 
+                 -->HAVE A NICE DAY!! ❤︎
+
   </tr>
 </table>
 
