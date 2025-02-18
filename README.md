@@ -16,7 +16,7 @@
 ⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙
 ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣ 
     </pre></td>
-    <td style="width: 50%;"> 
+    <td style="width: 60%;"> 
       👀  Hi I’m Alexcs (newbie to programming), interested in learning things that I think are interesting... ? <br><br>
       yeah... yeah <br><br>
       🌱 I’m currently learning -> Python <br><br>
