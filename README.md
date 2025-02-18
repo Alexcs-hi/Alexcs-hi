@@ -21,13 +21,17 @@
           learning things that I think are interesting... ?
           yeah... 
      
-      🌱 I’m currently learning -> Python 
-      💞️ I’m looking to collaborate on -> currently nothing 🫠 
-      📫 How to reach me: 
-      -> Discord : alexcs_ye or alexcs_ye@proton.me
-      😄 Pronouns: he/him 
-      ⚡ Fun fact: I have no idea what I am even doing (つ╥﹏╥)つ 
-      ----------- 
+🌱 I’m currently learning
+        -> Python 
+💞️ I’m looking to collaborate on 
+        -> currently nothing 🫠 
+📫 How to reach me: 
+       -> Discord : alexcs_ye
+       -> E-mail :  alexcs_ye@proton.me
+😄 Pronouns: 
+      -> he/him 
+⚡ Fun fact:
+      -> I have no idea what I am even doing (つ╥﹏╥)つ 
       ----------> <strong>HAVE A NICE DAY!! ❤︎</strong>
     </td>
   </tr>
