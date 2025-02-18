@@ -17,20 +17,20 @@
 ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣
     </pre></td>
     <td style="width: 60%; font-family: 'Arial', sans-serif; font-weight: bold;"> 
-      👀 Hi I’m Alexcs (newbie to programming), interested in 
+      👀 **Hi I’m Alexcs (newbie to programming), interested in 
           learning things that I think are interesting... ?
-          yeah... 
+          yeah... **
      
-🌱 I’m currently learning
+    🌱 I’m currently learning
         -> Python 
-💞️ I’m looking to collaborate on 
+    💞️ I’m looking to collaborate on 
         -> currently nothing 🫠 
-📫 How to reach me: 
+    📫 How to reach me: 
        -> Discord : alexcs_ye
        -> E-mail :  alexcs_ye@proton.me
-😄 Pronouns: 
+    😄 Pronouns: 
       -> he/him 
-⚡ Fun fact:
+    ⚡ Fun fact:
       -> I have no idea what I am even doing (つ╥﹏╥)つ 
       ----------> <strong>HAVE A NICE DAY!! ❤︎</strong>
     </td>
