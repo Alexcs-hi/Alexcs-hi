@@ -27,7 +27,7 @@
         -> currently nothing 🫠 
     📫 How to reach me: 
         -> Discord : alexcs_ye
-        -> E-mail :  alexcs_ye@proton.me
+        -> E-mail :  alexcs.hello@gmail.com
     😄 Pronouns: 
         -> he/him 
     ⚡ Fun fact:
